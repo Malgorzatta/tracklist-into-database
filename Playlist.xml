@@ -1,0 +1,1859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2023-04-05T21:07:25Z</date>
+	<key>Application Version</key><string>12.12.8.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>2AAA7B376666200C</string>
+	<key>Tracks</key>
+	<dict>
+		<key>591</key>
+		<dict>
+			<key>Track ID</key><integer>591</integer>
+			<key>Name</key><string>Sam's Town</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album</key><string>Sam's Town</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>5908603</integer>
+			<key>Total Time</key><integer>246099</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2023-04-02T21:33:25Z</date>
+			<key>Date Added</key><date>2023-04-02T21:33:23Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>8507</integer>
+			<key>Sort Artist</key><string>Killers</string>
+			<key>Persistent ID</key><string>13096555A5874096</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/The%20Killers/Sam's%20Town/01%20Sam's%20Town.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>593</key>
+		<dict>
+			<key>Track ID</key><integer>593</integer>
+			<key>Name</key><string>Enterlude</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album</key><string>Sam's Town</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>1201545</integer>
+			<key>Total Time</key><integer>49972</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2023-04-02T21:33:25Z</date>
+			<key>Date Added</key><date>2023-04-02T21:33:23Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1256</integer>
+			<key>Sort Artist</key><string>Killers</string>
+			<key>Persistent ID</key><string>015C389246E34451</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/The%20Killers/Sam's%20Town/02%20Enterlude.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>595</key>
+		<dict>
+			<key>Track ID</key><integer>595</integer>
+			<key>Name</key><string>When You Were Young</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album</key><string>Sam's Town</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>5294212</integer>
+			<key>Total Time</key><integer>220499</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2023-04-02T21:33:27Z</date>
+			<key>Date Added</key><date>2023-04-02T21:33:23Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>13101</integer>
+			<key>Sort Artist</key><string>Killers</string>
+			<key>Persistent ID</key><string>7CD65628AE210396</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/The%20Killers/Sam's%20Town/03%20When%20You%20Were%20Young.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>597</key>
+		<dict>
+			<key>Track ID</key><integer>597</integer>
+			<key>Name</key><string>Bling (Confession Of A King)</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album</key><string>Sam's Town</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>5966926</integer>
+			<key>Total Time</key><integer>248528</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2023-04-02T21:33:29Z</date>
+			<key>Date Added</key><date>2023-04-02T21:33:23Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>11430</integer>
+			<key>Sort Artist</key><string>Killers</string>
+			<key>Persistent ID</key><string>2FAD055F6846866D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/The%20Killers/Sam's%20Town/04%20Bling%20(Confession%20Of%20A%20King).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>599</key>
+		<dict>
+			<key>Track ID</key><integer>599</integer>
+			<key>Name</key><string>For Reasons Unknown</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album</key><string>Sam's Town</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>5097980</integer>
+			<key>Total Time</key><integer>212323</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2023-04-02T21:33:31Z</date>
+			<key>Date Added</key><date>2023-04-02T21:33:23Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>8042</integer>
+			<key>Sort Artist</key><string>Killers</string>
+			<key>Persistent ID</key><string>4EA352A4612C0667</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/The%20Killers/Sam's%20Town/05%20For%20Reasons%20Unknown.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2794</key>
+		<dict>
+			<key>Track ID</key><integer>2794</integer>
+			<key>Name</key><string>Today Is Yesterday's Tomorrow</string>
+			<key>Artist</key><string>Michael Bublé</string>
+			<key>Album</key><string>Nobody But Me [Deluxe Version]</string>
+			<key>Genre</key><string>Easy Listening</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>4912467</integer>
+			<key>Total Time</key><integer>204591</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2023-04-05T21:00:37Z</date>
+			<key>Date Added</key><date>2023-04-05T21:00:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>6577</integer>
+			<key>Persistent ID</key><string>68CB737C1EBA0511</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Michael%20Bubl%C3%A9/Nobody%20But%20Me%20%5BDeluxe%20Version%5D/05%20Today%20Is%20Yesterday's%20Tomorrow%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2800</key>
+		<dict>
+			<key>Track ID</key><integer>2800</integer>
+			<key>Name</key><string>The Very Thought Of You</string>
+			<key>Artist</key><string>Michael Bublé</string>
+			<key>Album</key><string>Nobody But Me [Deluxe Version]</string>
+			<key>Genre</key><string>Easy Listening</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>5082361</integer>
+			<key>Total Time</key><integer>211670</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2023-04-05T21:00:38Z</date>
+			<key>Date Added</key><date>2023-04-05T21:00:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1400</integer>
+			<key>Sort Name</key><string>Very Thought Of You</string>
+			<key>Persistent ID</key><string>AD9D8E9C7176BC61</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Michael%20Bubl%C3%A9/Nobody%20But%20Me%20%5BDeluxe%20Version%5D/06%20The%20Very%20Thought%20Of%20You%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2806</key>
+		<dict>
+			<key>Track ID</key><integer>2806</integer>
+			<key>Name</key><string>I Wanna Be Around</string>
+			<key>Artist</key><string>Michael Bublé</string>
+			<key>Album</key><string>Nobody But Me [Deluxe Version]</string>
+			<key>Genre</key><string>Easy Listening</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>5335012</integer>
+			<key>Total Time</key><integer>222197</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2023-04-05T21:00:40Z</date>
+			<key>Date Added</key><date>2023-04-05T21:00:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>4634</integer>
+			<key>Persistent ID</key><string>A6C5FDF00C69A7D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Michael%20Bubl%C3%A9/Nobody%20But%20Me%20%5BDeluxe%20Version%5D/07%20I%20Wanna%20Be%20Around%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2812</key>
+		<dict>
+			<key>Track ID</key><integer>2812</integer>
+			<key>Name</key><string>Someday</string>
+			<key>Artist</key><string>Michael Bublé</string>
+			<key>Album</key><string>Nobody But Me [Deluxe Version]</string>
+			<key>Genre</key><string>Easy Listening</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>4886745</integer>
+			<key>Total Time</key><integer>203520</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2023-04-05T21:00:42Z</date>
+			<key>Date Added</key><date>2023-04-05T21:00:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>4298</integer>
+			<key>Persistent ID</key><string>CFFA55F5FA0DEF47</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Michael%20Bubl%C3%A9/Nobody%20But%20Me%20%5BDeluxe%20Version%5D/08%20Someday%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2818</key>
+		<dict>
+			<key>Track ID</key><integer>2818</integer>
+			<key>Name</key><string>My Baby Just Cares For Me</string>
+			<key>Artist</key><string>Michael Bublé</string>
+			<key>Album</key><string>Nobody But Me [Deluxe Version]</string>
+			<key>Genre</key><string>Easy Listening</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>4699931</integer>
+			<key>Total Time</key><integer>195735</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2023-04-05T21:00:44Z</date>
+			<key>Date Added</key><date>2023-04-05T21:00:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>4733</integer>
+			<key>Persistent ID</key><string>4BB550865B2EC1D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Michael%20Bubl%C3%A9/Nobody%20But%20Me%20%5BDeluxe%20Version%5D/09%20My%20Baby%20Just%20Cares%20For%20Me%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2824</key>
+		<dict>
+			<key>Track ID</key><integer>2824</integer>
+			<key>Name</key><string>This Love Of Mine</string>
+			<key>Artist</key><string>Michael Bublé</string>
+			<key>Album</key><string>Nobody But Me [Deluxe Version]</string>
+			<key>Genre</key><string>Easy Listening</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>6242820</integer>
+			<key>Total Time</key><integer>260022</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2023-04-05T21:00:46Z</date>
+			<key>Date Added</key><date>2023-04-05T21:00:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1513</integer>
+			<key>Persistent ID</key><string>092091166784EC0B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Michael%20Bubl%C3%A9/Nobody%20But%20Me%20%5BDeluxe%20Version%5D/10%20This%20Love%20Of%20Mine%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2830</key>
+		<dict>
+			<key>Track ID</key><integer>2830</integer>
+			<key>Name</key><string>Nobody But Me [Alternate Take]</string>
+			<key>Artist</key><string>Michael Bublé</string>
+			<key>Album</key><string>Nobody But Me [Deluxe Version]</string>
+			<key>Genre</key><string>Easy Listening</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>4357001</integer>
+			<key>Total Time</key><integer>181446</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2023-04-05T21:00:47Z</date>
+			<key>Date Added</key><date>2023-04-05T21:00:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>5700</integer>
+			<key>Persistent ID</key><string>4E5985261A457C53</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Michael%20Bubl%C3%A9/Nobody%20But%20Me%20%5BDeluxe%20Version%5D/11%20Nobody%20But%20Me%20%5BAlternate%20Take%5D%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2836</key>
+		<dict>
+			<key>Track ID</key><integer>2836</integer>
+			<key>Name</key><string>Take You Away</string>
+			<key>Artist</key><string>Michael Bublé</string>
+			<key>Album</key><string>Nobody But Me [Deluxe Version]</string>
+			<key>Genre</key><string>Easy Listening</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>4160752</integer>
+			<key>Total Time</key><integer>173270</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2023-04-05T21:00:49Z</date>
+			<key>Date Added</key><date>2023-04-05T21:00:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>6414</integer>
+			<key>Persistent ID</key><string>3BFC9DD4B6C12C11</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Michael%20Bubl%C3%A9/Nobody%20But%20Me%20%5BDeluxe%20Version%5D/12%20Take%20You%20Away%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2842</key>
+		<dict>
+			<key>Track ID</key><integer>2842</integer>
+			<key>Name</key><string>God Only Knows</string>
+			<key>Artist</key><string>Michael Bublé</string>
+			<key>Album</key><string>Nobody But Me [Deluxe Version]</string>
+			<key>Genre</key><string>Easy Listening</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>6133730</integer>
+			<key>Total Time</key><integer>255477</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2023-04-05T21:00:51Z</date>
+			<key>Date Added</key><date>2023-04-05T21:00:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1256</integer>
+			<key>Persistent ID</key><string>7AF1AC28E8928754</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Michael%20Bubl%C3%A9/Nobody%20But%20Me%20%5BDeluxe%20Version%5D/13%20God%20Only%20Knows%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2884</key>
+		<dict>
+			<key>Track ID</key><integer>2884</integer>
+			<key>Name</key><string>Decent Days And Nights</string>
+			<key>Artist</key><string>The Futureheads</string>
+			<key>Album</key><string>Music From The OC: Mix 4</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>3637242</integer>
+			<key>Total Time</key><integer>151457</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2023-04-05T21:02:10Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:07Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>8336</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Artist</key><string>Futureheads</string>
+			<key>Persistent ID</key><string>33F64FB6A15A12B0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/Music%20From%20The%20OC_%20Mix%204/01%20Decent%20Days%20And%20Nights.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2892</key>
+		<dict>
+			<key>Track ID</key><integer>2892</integer>
+			<key>Name</key><string>Goodnight And Go</string>
+			<key>Artist</key><string>Imogen Heap</string>
+			<key>Album</key><string>Music From The OC: Mix 4</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>5570712</integer>
+			<key>Total Time</key><integer>232019</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2023-04-05T21:02:13Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:07Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>2182</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>B667B6C455522587</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/Music%20From%20The%20OC_%20Mix%204/02%20Goodnight%20And%20Go.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2899</key>
+		<dict>
+			<key>Track ID</key><integer>2899</integer>
+			<key>Name</key><string>Fortress</string>
+			<key>Artist</key><string>Pinback</string>
+			<key>Album</key><string>Music From The OC: Mix 4</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>5991376</integer>
+			<key>Total Time</key><integer>249547</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2023-04-05T21:02:16Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:07Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>2582</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>6ECD2FFF18BCE2D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/Music%20From%20The%20OC_%20Mix%204/03%20Fortress.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2906</key>
+		<dict>
+			<key>Track ID</key><integer>2906</integer>
+			<key>Name</key><string>On The Table</string>
+			<key>Artist</key><string>A.C. Newman</string>
+			<key>Album</key><string>Music From The OC: Mix 4</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>5734339</integer>
+			<key>Total Time</key><integer>238837</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2023-04-05T21:02:19Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:07Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>6463</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>2ED13CCFBEFD7F6A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/Music%20From%20The%20OC_%20Mix%204/04%20On%20The%20Table.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2913</key>
+		<dict>
+			<key>Track ID</key><integer>2913</integer>
+			<key>Name</key><string>To Be Alone With You</string>
+			<key>Artist</key><string>Sufjan Stevens</string>
+			<key>Album</key><string>Music From The OC: Mix 4</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>3968890</integer>
+			<key>Total Time</key><integer>165276</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2023-04-05T21:02:21Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:07Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>0A58A6BADA5803CF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/Music%20From%20The%20OC_%20Mix%204/05%20To%20Be%20Alone%20With%20You.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2920</key>
+		<dict>
+			<key>Track ID</key><integer>2920</integer>
+			<key>Name</key><string>Play</string>
+			<key>Artist</key><string>Flunk</string>
+			<key>Album</key><string>Music From The OC: Mix 4</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>5855324</integer>
+			<key>Total Time</key><integer>243879</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2023-04-05T21:02:24Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:07Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>3494</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>65FB28110B16E487</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/Music%20From%20The%20OC_%20Mix%204/06%20Play.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2927</key>
+		<dict>
+			<key>Track ID</key><integer>2927</integer>
+			<key>Name</key><string>Scarecrow</string>
+			<key>Artist</key><string>Beck</string>
+			<key>Album</key><string>Music From The OC: Mix 4</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>6148735</integer>
+			<key>Total Time</key><integer>256104</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2023-04-05T21:02:26Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:07Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>2212</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>9B9DDBCCDC14E764</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/Music%20From%20The%20OC_%20Mix%204/07%20Scarecrow.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2934</key>
+		<dict>
+			<key>Track ID</key><integer>2934</integer>
+			<key>Name</key><string>The View</string>
+			<key>Artist</key><string>Modest Mouse</string>
+			<key>Album</key><string>Music From The OC: Mix 4</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>6017712</integer>
+			<key>Total Time</key><integer>250644</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2023-04-05T21:02:28Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:07Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>5232</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Name</key><string>View</string>
+			<key>Persistent ID</key><string>C7E8C774D18D6CC4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/Music%20From%20The%20OC_%20Mix%204/08%20The%20View.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2941</key>
+		<dict>
+			<key>Track ID</key><integer>2941</integer>
+			<key>Name</key><string>Hardcore Days &#38; Softcore Nights</string>
+			<key>Artist</key><string>Aqueduct</string>
+			<key>Album</key><string>Music From The OC: Mix 4</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>5606459</integer>
+			<key>Total Time</key><integer>233508</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2023-04-05T21:02:30Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:07Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>3767</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>9834B8FDEDD54E95</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/Music%20From%20The%20OC_%20Mix%204/09%20Hardcore%20Days%20&#38;%20Softcore%20Nights.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2948</key>
+		<dict>
+			<key>Track ID</key><integer>2948</integer>
+			<key>Name</key><string>Cartwheels</string>
+			<key>Artist</key><string>The Reindeer Section</string>
+			<key>Album</key><string>Music From The OC: Mix 4</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>5938729</integer>
+			<key>Total Time</key><integer>247353</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2023-04-05T21:02:32Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:07Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1644</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Artist</key><string>Reindeer Section</string>
+			<key>Persistent ID</key><string>D5BDE000637BD93E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/Music%20From%20The%20OC_%20Mix%204/10%20Cartwheels.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2955</key>
+		<dict>
+			<key>Track ID</key><integer>2955</integer>
+			<key>Name</key><string>Eve, The Apple Of My Eye</string>
+			<key>Artist</key><string>Bell X1</string>
+			<key>Album</key><string>Music From The OC: Mix 4</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>8009509</integer>
+			<key>Total Time</key><integer>333635</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2023-04-05T21:02:36Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:07Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>2862</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>66569F35489C530A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/Music%20From%20The%20OC_%20Mix%204/11%20Eve,%20The%20Apple%20Of%20My%20Eye.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2962</key>
+		<dict>
+			<key>Track ID</key><integer>2962</integer>
+			<key>Name</key><string>Champagne Supernova</string>
+			<key>Artist</key><string>Matt Pond PA</string>
+			<key>Album</key><string>Music From The OC: Mix 4</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>10373068</integer>
+			<key>Total Time</key><integer>432117</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2023-04-05T21:02:40Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:07Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>5777</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>FA957BC900499228</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/Music%20From%20The%20OC_%20Mix%204/12%20Champagne%20Supernova.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3000</key>
+		<dict>
+			<key>Track ID</key><integer>3000</integer>
+			<key>Name</key><string>Paint The Silence</string>
+			<key>Artist</key><string>South</string>
+			<key>Composer</key><string>Brett Shaw/Jamie McDonald/Joel Cadbury</string>
+			<key>Album</key><string>The OC: Mix 1</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>8641174</integer>
+			<key>Total Time</key><integer>353854</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2023-04-05T21:02:43Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:15Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>3967</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>OC: Mix 1</string>
+			<key>Persistent ID</key><string>6E40891F3947AC6E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/The%20OC_%20Mix%201/01%20Paint%20The%20Silence.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3008</key>
+		<dict>
+			<key>Track ID</key><integer>3008</integer>
+			<key>Name</key><string>Just A Ride</string>
+			<key>Artist</key><string>Jem</string>
+			<key>Composer</key><string>Mike Caren/Jemma Gwynne Griffiths</string>
+			<key>Album</key><string>The OC: Mix 1</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>4909622</integer>
+			<key>Total Time</key><integer>198373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2023-04-05T21:02:45Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:15Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>2355</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>OC: Mix 1</string>
+			<key>Persistent ID</key><string>661F78E451D7E4E8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/The%20OC_%20Mix%201/02%20Just%20A%20Ride.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3015</key>
+		<dict>
+			<key>Track ID</key><integer>3015</integer>
+			<key>Name</key><string>Honey And The Moon</string>
+			<key>Artist</key><string>Joseph Arthur</string>
+			<key>Composer</key><string>Joseph Arthur</string>
+			<key>Album</key><string>The OC: Mix 1</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>6957828</integer>
+			<key>Total Time</key><integer>283715</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2023-04-05T21:02:48Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:15Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1745</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>OC: Mix 1</string>
+			<key>Persistent ID</key><string>22C40A2E2B4ECA22</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/The%20OC_%20Mix%201/03%20Honey%20And%20The%20Moon.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3022</key>
+		<dict>
+			<key>Track ID</key><integer>3022</integer>
+			<key>Name</key><string>The Way We Get By</string>
+			<key>Artist</key><string>Spoon</string>
+			<key>Composer</key><string>Britt Daniel</string>
+			<key>Album</key><string>The OC: Mix 1</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>4008071</integer>
+			<key>Total Time</key><integer>160809</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2023-04-05T21:02:50Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:15Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>3560</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>OC: Mix 1</string>
+			<key>Sort Name</key><string>Way We Get By</string>
+			<key>Persistent ID</key><string>8812F9534F159F32</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/The%20OC_%20Mix%201/04%20The%20Way%20We%20Get%20By.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3029</key>
+		<dict>
+			<key>Track ID</key><integer>3029</integer>
+			<key>Name</key><string>Move On</string>
+			<key>Artist</key><string>Jet</string>
+			<key>Composer</key><string>Chris Cester/Sam Muncey/Nic Cester</string>
+			<key>Album</key><string>The OC: Mix 1</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>6421168</integer>
+			<key>Total Time</key><integer>261355</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2023-04-05T21:02:52Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:15Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>3879</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>OC: Mix 1</string>
+			<key>Persistent ID</key><string>9CC762868E87A753</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/The%20OC_%20Mix%201/05%20Move%20On.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3036</key>
+		<dict>
+			<key>Track ID</key><integer>3036</integer>
+			<key>Name</key><string>How Good It Can Be</string>
+			<key>Artist</key><string>The 88</string>
+			<key>Composer</key><string>Keith Slettedahl</string>
+			<key>Album</key><string>The OC: Mix 1</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>5708964</integer>
+			<key>Total Time</key><integer>231680</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2023-04-05T21:02:55Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:15Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>3198</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>OC: Mix 1</string>
+			<key>Sort Artist</key><string>88</string>
+			<key>Persistent ID</key><string>A62D37A1DB891F9B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/The%20OC_%20Mix%201/06%20How%20Good%20It%20Can%20Be.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3043</key>
+		<dict>
+			<key>Track ID</key><integer>3043</integer>
+			<key>Name</key><string>Caught By The River</string>
+			<key>Artist</key><string>Doves</string>
+			<key>Composer</key><string>Andy Williams/Jez Williams/Jimi Goodwin</string>
+			<key>Album</key><string>The OC: Mix 1</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>8636162</integer>
+			<key>Total Time</key><integer>353645</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2023-04-05T21:02:58Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:15Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>6731</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>OC: Mix 1</string>
+			<key>Persistent ID</key><string>F96FA083A5F292D8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/The%20OC_%20Mix%201/07%20Caught%20By%20The%20River.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3050</key>
+		<dict>
+			<key>Track ID</key><integer>3050</integer>
+			<key>Name</key><string>Rain City</string>
+			<key>Artist</key><string>Turin Brakes</string>
+			<key>Composer</key><string>Gale Paridjanian/Olly Knight</string>
+			<key>Album</key><string>The OC: Mix 1</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>5996738</integer>
+			<key>Total Time</key><integer>243670</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2023-04-05T21:03:00Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:15Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1206</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>OC: Mix 1</string>
+			<key>Persistent ID</key><string>3D52BE4F4F1227B4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/The%20OC_%20Mix%201/08%20Rain%20City.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3057</key>
+		<dict>
+			<key>Track ID</key><integer>3057</integer>
+			<key>Name</key><string>We Used To Be Friends</string>
+			<key>Artist</key><string>The Dandy Warhols</string>
+			<key>Composer</key><string>Courtney Taylor-Taylor</string>
+			<key>Album</key><string>The OC: Mix 1</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>4954150</integer>
+			<key>Total Time</key><integer>200228</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2023-04-05T21:03:02Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:15Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>6581</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>OC: Mix 1</string>
+			<key>Sort Artist</key><string>Dandy Warhols</string>
+			<key>Persistent ID</key><string>957FEABB0D4A3188</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/The%20OC_%20Mix%201/09%20We%20Used%20To%20Be%20Friends.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3064</key>
+		<dict>
+			<key>Track ID</key><integer>3064</integer>
+			<key>Name</key><string>Dice</string>
+			<key>Artist</key><string>Finley Quaye &#38; William Orbit</string>
+			<key>Composer</key><string>Beth Orton/Finley Quaye/William Orbit</string>
+			<key>Album</key><string>The OC: Mix 1</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>6273863</integer>
+			<key>Total Time</key><integer>255216</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2023-04-05T21:03:05Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:15Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>2471</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>OC: Mix 1</string>
+			<key>Persistent ID</key><string>B5279F59A34BCBFB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/The%20OC_%20Mix%201/10%20Dice.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3071</key>
+		<dict>
+			<key>Track ID</key><integer>3071</integer>
+			<key>Name</key><string>Orange Sky</string>
+			<key>Artist</key><string>Alexi Murdoch</string>
+			<key>Composer</key><string>Alexi Murdoch</string>
+			<key>Album</key><string>The OC: Mix 1</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>9222326</integer>
+			<key>Total Time</key><integer>378070</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2023-04-05T21:03:08Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:15Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1231</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>OC: Mix 1</string>
+			<key>Persistent ID</key><string>48F7463B64C16EA0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/The%20OC_%20Mix%201/11%20Orange%20Sky.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3078</key>
+		<dict>
+			<key>Track ID</key><integer>3078</integer>
+			<key>Name</key><string>California</string>
+			<key>Artist</key><string>Phantom Planet</string>
+			<key>Composer</key><string>Jaques Brautbar/Darren Robinson/Jason Schwartzman/Sam Farrar/Alexi Murdoch</string>
+			<key>Album</key><string>The OC: Mix 1</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>4804975</integer>
+			<key>Total Time</key><integer>194011</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2023-04-05T21:03:10Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:15Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>3532</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>OC: Mix 1</string>
+			<key>Persistent ID</key><string>ACCF40FA3FD6A130</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/The%20OC_%20Mix%201/12%20California.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3109</key>
+		<dict>
+			<key>Track ID</key><integer>3109</integer>
+			<key>Name</key><string>Supermassive Black Hole</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Twilight</string>
+			<key>Album</key><string>Twilight: Original Motion Picture Soundtrack</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>5106456</integer>
+			<key>Total Time</key><integer>211121</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2023-04-05T21:03:12Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:21Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>5614</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4015EE366EFDF300</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/Twilight_%20Original%20Motion%20Picture%20Soundt/01%20Supermassive%20Black%20Hole.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3117</key>
+		<dict>
+			<key>Track ID</key><integer>3117</integer>
+			<key>Name</key><string>Decode</string>
+			<key>Artist</key><string>Paramore</string>
+			<key>Composer</key><string>Twilight</string>
+			<key>Album</key><string>Twilight: Original Motion Picture Soundtrack</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>6328346</integer>
+			<key>Total Time</key><integer>262034</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2023-04-05T21:03:15Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:21Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>9733</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6B64D96E9E39070C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/Twilight_%20Original%20Motion%20Picture%20Soundt/02%20Decode.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3124</key>
+		<dict>
+			<key>Track ID</key><integer>3124</integer>
+			<key>Name</key><string>Full Moon</string>
+			<key>Artist</key><string>The Black Ghosts</string>
+			<key>Composer</key><string>Simon Lord/Theo Keating</string>
+			<key>Album</key><string>Twilight: Original Motion Picture Soundtrack</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>5562880</integer>
+			<key>Total Time</key><integer>230138</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2023-04-05T21:03:17Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:21Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>4077</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Black Ghosts</string>
+			<key>Persistent ID</key><string>EC80305D66C4FD7A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/Twilight_%20Original%20Motion%20Picture%20Soundt/03%20Full%20Moon.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3131</key>
+		<dict>
+			<key>Track ID</key><integer>3131</integer>
+			<key>Name</key><string>Leave Out All The Rest</string>
+			<key>Artist</key><string>Linkin Park</string>
+			<key>Composer</key><string>Twilight</string>
+			<key>Album</key><string>Twilight: Original Motion Picture Soundtrack</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>4840013</integer>
+			<key>Total Time</key><integer>200019</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2023-04-05T21:03:18Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:21Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>6543</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6CAA42D25D8C8E57</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/Twilight_%20Original%20Motion%20Picture%20Soundt/04%20Leave%20Out%20All%20The%20Rest.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3138</key>
+		<dict>
+			<key>Track ID</key><integer>3138</integer>
+			<key>Name</key><string>Spotlight (Twilight Mix)</string>
+			<key>Artist</key><string>Mutemath</string>
+			<key>Composer</key><string>Paul Meany</string>
+			<key>Album</key><string>Twilight: Original Motion Picture Soundtrack</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>4858195</integer>
+			<key>Total Time</key><integer>200777</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2023-04-05T21:03:20Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:21Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>10215</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F81C46644D110A5A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/Twilight_%20Original%20Motion%20Picture%20Soundt/05%20Spotlight%20(Twilight%20Mix).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3145</key>
+		<dict>
+			<key>Track ID</key><integer>3145</integer>
+			<key>Name</key><string>Go All The Way (Into The Twilight)</string>
+			<key>Artist</key><string>Perry Farrell</string>
+			<key>Composer</key><string>Twilight</string>
+			<key>Album</key><string>Twilight: Original Motion Picture Soundtrack</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>5017450</integer>
+			<key>Total Time</key><integer>207412</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2023-04-05T21:03:22Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:21Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>5921</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>039ABE5FD9430861</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/Twilight_%20Original%20Motion%20Picture%20Soundt/06%20Go%20All%20The%20Way%20(Into%20The%20Twilight.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3152</key>
+		<dict>
+			<key>Track ID</key><integer>3152</integer>
+			<key>Name</key><string>Tremble For My Beloved</string>
+			<key>Artist</key><string>Collective Soul</string>
+			<key>Composer</key><string>Ed. Roland</string>
+			<key>Album</key><string>Twilight: Original Motion Picture Soundtrack</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>5633723</integer>
+			<key>Total Time</key><integer>233090</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2023-04-05T21:03:25Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:21Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>6930</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3BF9D357BCFB6511</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/Twilight_%20Original%20Motion%20Picture%20Soundt/07%20Tremble%20For%20My%20Beloved.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3159</key>
+		<dict>
+			<key>Track ID</key><integer>3159</integer>
+			<key>Name</key><string>I Caught Myself</string>
+			<key>Artist</key><string>Paramore</string>
+			<key>Composer</key><string>Twilight</string>
+			<key>Album</key><string>Twilight: Original Motion Picture Soundtrack</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>5691386</integer>
+			<key>Total Time</key><integer>235493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2023-04-05T21:03:27Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:21Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>8055</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B6F940100604DA1D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/Twilight_%20Original%20Motion%20Picture%20Soundt/08%20I%20Caught%20Myself.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3165</key>
+		<dict>
+			<key>Track ID</key><integer>3165</integer>
+			<key>Name</key><string>Eyes On Fire</string>
+			<key>Artist</key><string>Blue Foundation</string>
+			<key>Composer</key><string>Kirstine Stubbe Teglbjærg</string>
+			<key>Album</key><string>Twilight: Original Motion Picture Soundtrack</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>7273201</integer>
+			<key>Total Time</key><integer>301400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2023-04-05T21:03:29Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:21Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>2410</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1F3FED6CF4C37DC0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/Twilight_%20Original%20Motion%20Picture%20Soundt/09%20Eyes%20On%20Fire.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3172</key>
+		<dict>
+			<key>Track ID</key><integer>3172</integer>
+			<key>Name</key><string>Never Think</string>
+			<key>Artist</key><string>Robert Pattinson</string>
+			<key>Composer</key><string>Twilight</string>
+			<key>Album</key><string>Twilight: Original Motion Picture Soundtrack</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>6543401</integer>
+			<key>Total Time</key><integer>270994</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2023-04-05T21:03:32Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:21Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1230</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>16371BC22B8A20B3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/Twilight_%20Original%20Motion%20Picture%20Soundt/10%20Never%20Think.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3179</key>
+		<dict>
+			<key>Track ID</key><integer>3179</integer>
+			<key>Name</key><string>Flightless Bird, American Mouth</string>
+			<key>Artist</key><string>Iron &#38; Wine</string>
+			<key>Composer</key><string>Twilight</string>
+			<key>Album</key><string>Twilight: Original Motion Picture Soundtrack</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>5858799</integer>
+			<key>Total Time</key><integer>242468</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2023-04-05T21:03:34Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:21Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>3375</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B99DB0AF1F312F45</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/Twilight_%20Original%20Motion%20Picture%20Soundt/11%20Flightless%20Bird,%20American%20Mouth.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3186</key>
+		<dict>
+			<key>Track ID</key><integer>3186</integer>
+			<key>Name</key><string>Bella's Lullaby</string>
+			<key>Artist</key><string>Carter Burwell</string>
+			<key>Composer</key><string>Twilight</string>
+			<key>Album</key><string>Twilight: Original Motion Picture Soundtrack</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>3389274</integer>
+			<key>Total Time</key><integer>139572</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2023-04-05T21:03:35Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:21Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1210</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B5F34DDE79DAF00D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/Compilations/Twilight_%20Original%20Motion%20Picture%20Soundt/12%20Bella's%20Lullaby.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3246</key>
+		<dict>
+			<key>Track ID</key><integer>3246</integer>
+			<key>Name</key><string>Enterlude</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album</key><string>Sam's Town</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>1201545</integer>
+			<key>Total Time</key><integer>49972</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2023-04-05T21:03:37Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:40Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1256</integer>
+			<key>Sort Artist</key><string>Killers</string>
+			<key>Persistent ID</key><string>643EC152364C0DBF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/The%20Killers/Sam's%20Town/02%20Enterlude%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3266</key>
+		<dict>
+			<key>Track ID</key><integer>3266</integer>
+			<key>Name</key><string>Read My Mind</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album</key><string>Sam's Town</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>5928040</integer>
+			<key>Total Time</key><integer>246909</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2023-04-05T21:03:45Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:40Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>10529</integer>
+			<key>Sort Artist</key><string>Killers</string>
+			<key>Persistent ID</key><string>E1D1A6E0E5200929</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/The%20Killers/Sam's%20Town/06%20Read%20My%20Mind%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3271</key>
+		<dict>
+			<key>Track ID</key><integer>3271</integer>
+			<key>Name</key><string>Uncle Jonny</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album</key><string>Sam's Town</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>6383196</integer>
+			<key>Total Time</key><integer>265874</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2023-04-05T21:03:47Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:40Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>13018</integer>
+			<key>Sort Artist</key><string>Killers</string>
+			<key>Persistent ID</key><string>330382FF3ECDC5F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/The%20Killers/Sam's%20Town/07%20Uncle%20Jonny%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3276</key>
+		<dict>
+			<key>Track ID</key><integer>3276</integer>
+			<key>Name</key><string>Bones</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album</key><string>Sam's Town</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>5451559</integer>
+			<key>Total Time</key><integer>227056</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2023-04-05T21:03:48Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:40Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>11329</integer>
+			<key>Sort Artist</key><string>Killers</string>
+			<key>Persistent ID</key><string>D348E90F501312EC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/The%20Killers/Sam's%20Town/08%20Bones%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3281</key>
+		<dict>
+			<key>Track ID</key><integer>3281</integer>
+			<key>Name</key><string>My List</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album</key><string>Sam's Town</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>5963770</integer>
+			<key>Total Time</key><integer>248398</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2023-04-05T21:03:50Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:40Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>3388</integer>
+			<key>Sort Artist</key><string>Killers</string>
+			<key>Persistent ID</key><string>3EB6933921AEC5B1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/The%20Killers/Sam's%20Town/09%20My%20List%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3286</key>
+		<dict>
+			<key>Track ID</key><integer>3286</integer>
+			<key>Name</key><string>This River Is Wild</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album</key><string>Sam's Town</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>6675985</integer>
+			<key>Total Time</key><integer>278073</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2023-04-05T21:03:52Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:40Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>9792</integer>
+			<key>Sort Artist</key><string>Killers</string>
+			<key>Persistent ID</key><string>0543C23AE1650D28</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/The%20Killers/Sam's%20Town/10%20This%20River%20Is%20Wild%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3291</key>
+		<dict>
+			<key>Track ID</key><integer>3291</integer>
+			<key>Name</key><string>Why Do I Keep Counting?</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album</key><string>Sam's Town</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>6350609</integer>
+			<key>Total Time</key><integer>264515</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2023-04-05T21:03:55Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:40Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>9085</integer>
+			<key>Sort Artist</key><string>Killers</string>
+			<key>Persistent ID</key><string>EDE962A336B6043C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/The%20Killers/Sam's%20Town/11%20Why%20Do%20I%20Keep%20Counting_%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3296</key>
+		<dict>
+			<key>Track ID</key><integer>3296</integer>
+			<key>Name</key><string>Exitlude</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album</key><string>Sam's Town</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>3645353</integer>
+			<key>Total Time</key><integer>151797</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2023-04-05T21:03:57Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:40Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1707</integer>
+			<key>Sort Artist</key><string>Killers</string>
+			<key>Persistent ID</key><string>42FFA2D61B20C4A1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/The%20Killers/Sam's%20Town/12%20Exitlude%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3301</key>
+		<dict>
+			<key>Track ID</key><integer>3301</integer>
+			<key>Name</key><string>Where The White Boys Dance</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album</key><string>Sam's Town</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>plik audio MPEG</string>
+			<key>Size</key><integer>4962569</integer>
+			<key>Total Time</key><integer>206680</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2023-04-05T21:04:02Z</date>
+			<key>Date Added</key><date>2023-04-05T21:02:40Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>4631</integer>
+			<key>Sort Artist</key><string>Killers</string>
+			<key>Persistent ID</key><string>C72446D33BB02858</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/malgo/Music/iTunes/iTunes%20Media/Music/The%20Killers/Sam's%20Town/13%20Where%20The%20White%20Boys%20Dance%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Playlista</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>1022</integer>
+			<key>Playlist Persistent ID</key><string>81498FA897CD8674</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>2794</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2800</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2806</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2812</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2818</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2824</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2830</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2836</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2842</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2884</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2892</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2899</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2906</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2913</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2920</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2927</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2934</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2941</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2948</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2955</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2962</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3008</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3015</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3022</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3029</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3036</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3043</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3050</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3057</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3064</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3071</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3078</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3117</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3124</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3138</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3145</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3152</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3159</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3165</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3172</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3179</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3186</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>591</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>593</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3246</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>595</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>597</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>599</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3266</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3271</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3276</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3281</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3286</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3291</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3296</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3301</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
